@@ -1,0 +1,11 @@
+body {
+    background: #FFFFFF;
+}
+
+/* Main Container */
+.main-container {
+    display: flex;
+    width: 776.391px;
+    height: 550px;
+    flex-shrink: 0;
+}
